@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Get Connected</string>
+    <string name="signup">Create New Account</string>
+    <string name="txtfn">First Name</string>
+    <string name="editfn" />
+    <string name="txtemail">Email</string>
+    <string name="editemail" />
+    <string name="txtpass">Password</string>
+    <string name="editpass" />
+    <string name="btnSignup">Sign Up</string>
+    <string name="btncanl">Cancel</string>
+    <string name="btnso">Sign Out</string>
+    <string name="pass">Password</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="btnUpload">Upload Images</string>
+    <string name="facebook_app_id">747688395384633</string>
+
+    <string name="fb_login_protocol_scheme">fb747688395384633</string>
+    <string name="hint">Type a message</string>
+    <string name="dateofUp" />
+
+</resources>
